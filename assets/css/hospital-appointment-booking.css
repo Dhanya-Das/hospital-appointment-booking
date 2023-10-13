@@ -1,0 +1,22 @@
+.edit-appointment-form {
+    display: flex;
+    align-items: center;
+}
+.edit-appointment-form input[type="text"],
+.edit-appointment-form input[type="tel"]
+{
+    width: 120px;
+}
+
+.edit-appointment-form input[type="email"] {
+    width: 180px;
+
+}
+.edit-appointment-form select {
+    width: 120px;
+}
+form.edit-appointment-form div {
+    padding: 0.2rem;
+    margin: 5px 8px;
+    width: 200px;
+}
